@@ -85,7 +85,8 @@ td{
 }
 
 tr{
-  
+  transition: background-color .5s ease;
+  -webkit-transition: background-color .5s ease;
 }
 
 
