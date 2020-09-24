@@ -73,6 +73,7 @@ table{
   border-right: 2px solid #000000;
   border-bottom: 0px;
   border-left: 0px;
+  vertical-align: middle;
   
 }
 
@@ -96,8 +97,7 @@ tr:nth-child(even){
 }
 
 tr:hover{
-  background-color: rgba(126, 8, 32);
-  opacity: 0.25;
+  background-color: rgba(126, 8, 32, 0.25);
 }
 
 
