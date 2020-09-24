@@ -25,7 +25,7 @@ main{
 }
 
 h1{
-  color: #c12258;
+
   font-size: 2em;
   text-align: center;
   line-height: 2;
@@ -43,7 +43,7 @@ p{
 
 a{
   font-size: 16px;
-  color: #C12258;
+  color: #B21F50;
   text-decoration-line: underline;
   text-decoration-style: wavy;
 
@@ -69,7 +69,10 @@ table{
 }
 
 .rowhead{
-  border: 2px solid #000000;
+  border-top: 2px solid #000000;
+  border-right: 2px solid #000000;
+  border-bottom: 0px;
+  border-left: 0px;
   
 }
 
@@ -82,7 +85,6 @@ td{
 }
 
 tr{
-
   
 }
 
